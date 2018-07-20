@@ -12,3 +12,5 @@ In the second version, the program has been slightly edited, such that it always
 
 I have included the results from the console for the two versions of the code.
 
+Note: these are not the final versions of the code.
+
