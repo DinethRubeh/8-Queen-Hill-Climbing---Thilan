@@ -10,3 +10,5 @@ The first version is the basic program which gets stuck at local maximums, or re
 
 In the second version, the program has been slightly edited, such that it always reaches a global maximum. It does this by reinitializing the board to its initial queen positions, if the result lands at a local maximum. In this way, the program loops until the path reaches a global maximum, which provides the solution that we are expecting. 
 
+I have included the results from the console for the two versions of the code.
+
