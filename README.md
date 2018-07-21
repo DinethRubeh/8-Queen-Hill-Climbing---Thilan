@@ -8,7 +8,7 @@ I have included two versions of my program.
 
 The first version is the basic program which gets stuck at local maximums, or reaches the global maximum depending on its path.
 
-In the second version, the program has been slightly edited, such that it always reaches a global maximum. It does this by reinitializing the board to its initial queen positions, if the result lands at a local maximum. In this way, the program loops until the path reaches a global maximum, which provides the solution that we are expecting. 
+In the second version, the program has been slightly edited, such that it always reaches a global maximum. It does this by reinitializing the board to its initial queen positions, if the result lands at a local maximum. The program loops until the path reaches a global maximum, which provides the solution that we are expecting. In this way, the final solution provided will always be a global maximum.
 
 I have included the results from the console for the two versions of the code.
 
